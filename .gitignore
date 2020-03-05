@@ -1,3 +1,11 @@
-.idea
-vendor
-composer.phar
+# Ecplipse generated files #
+######################
+.project
+.cache/
+.settings/
+.svn/
+
+# Sublime generated files #
+######################
+*.sublime-project
+*.sublime-workspace
